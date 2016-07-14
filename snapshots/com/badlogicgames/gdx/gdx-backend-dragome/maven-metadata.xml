@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.badlogicgames.gdx</groupId>
+  <artifactId>gdx-backend-dragome</artifactId>
+  <versioning>
+    <release>1.0.0-NIGHTLIES</release>
+    <versions>
+      <version>1.0.0-NIGHTLIES</version>
+    </versions>
+    <lastUpdated>20160715164304</lastUpdated>
+  </versioning>
+</metadata>
