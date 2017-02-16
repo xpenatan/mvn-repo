@@ -5,7 +5,7 @@
   <groupId>com.badlogicgames.gdx</groupId>
   <artifactId>gdx-backend-dragome</artifactId>
   <version>1.0.0-NIGHTLIES</version>
-  <name>backends/gdx-backend-dragome</name>
+  <name>gdx-backend-dragome</name>
   <description>null</description>
   <url>https://github.com/xpenatan/mvn-repo.git</url>
   <licenses>
